@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main(void) {
     const int size = 10;
     int T[size];
     int count = 0;
