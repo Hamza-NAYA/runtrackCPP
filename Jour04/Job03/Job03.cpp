@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void inverseChaine(char *str) {
+void inverseStr(char *str) {
     int longueur = strlen(str);
 
     char *debut = str;
@@ -26,7 +26,7 @@ int main(void) {
     cout << "Entrez une chaine de caracteres : ";
     cin.getline(str, size);
 
-    inverseChaine(str);
+    inverseStr(str);
 
     cout << "La chaine inversee est : " << str << endl;
 
