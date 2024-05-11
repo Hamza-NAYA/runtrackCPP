@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int main(void) {
     const int size = 6;
     int tableau[size] = {11, 36, 78, 14, 51, 18};
 
