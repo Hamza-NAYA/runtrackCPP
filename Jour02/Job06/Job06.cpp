@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main(void) {
     int n;
 
     cout << "Entrez un entier n : ";
